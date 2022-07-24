@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6564f797-2a14-48d6-816f-6a6e0a3ed3b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/src/main/java/com/example/account/cmd/AccountCommandApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-cmd/src/test/java/com/example/account/cmd/AccountCmdApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-common/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-common/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-common/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/src/main/java/com/macan/account/query/AccountQueryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account-query/src/test/java/com/macan/account/query/AccountQueryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/cqrs-core/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/cqrs-core/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/cqrs-core/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/cqrs-core/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/cqrs-core/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cqrs-core/cqrs-core/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/account-query" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CNznzk4FpaRqjhboTxXD5xx3rs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/workspace/samples/broker-account/account-query/src/main/java/com/macan/account/query",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\samples\broker-account\broker-account" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountCmdApplication">
+    <configuration name="AccountCmdApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-cmd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.account.cmd.AccountCommandApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macan.account.common.AccountCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountQueryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-query" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macan.account.query.AccountQueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CqrsCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cqrs-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.cqrscore.CqrsCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6564f797-2a14-48d6-816f-6a6e0a3ed3b8" name="Changes" comment="" />
+      <created>1658658004935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658658004935</updated>
+      <workItem from="1658658006480" duration="1520000" />
+      <workItem from="1658666829143" duration="935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/account-cmd/account-cmd" />
+      <path value="$PROJECT_DIR$/account-query/account-query" />
+    </ignored-roots>
+  </component>
+</project>
