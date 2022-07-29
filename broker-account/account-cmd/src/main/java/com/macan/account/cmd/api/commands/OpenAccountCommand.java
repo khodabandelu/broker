@@ -1,4 +1,4 @@
-package com.example.account.cmd.api.commands;
+package com.macan.account.cmd.api.commands;
 
 import com.macan.account.common.dto.AccountType;
 import com.macan.cqrs.core.commands.BaseCommand;

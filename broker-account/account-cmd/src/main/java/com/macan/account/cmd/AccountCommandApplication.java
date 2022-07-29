@@ -1,4 +1,4 @@
-package com.example.account.cmd;
+package com.macan.account.cmd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

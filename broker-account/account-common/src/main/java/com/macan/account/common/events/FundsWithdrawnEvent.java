@@ -1,6 +1,6 @@
 package com.macan.account.common.events;
 
-import com.macan.cqrs.core.BaseEvent;
+import com.macan.cqrs.core.events.BaseEvent;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

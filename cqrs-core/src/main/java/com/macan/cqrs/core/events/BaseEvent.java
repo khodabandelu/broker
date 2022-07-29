@@ -1,4 +1,4 @@
-package com.macan.cqrs.core;
+package com.macan.cqrs.core.events;
 
 import com.macan.cqrs.core.messages.Message;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.example.account.cmd;
+package com.macan.account.cmd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,9 +1,9 @@
-package com.example.account.cmd.api.commands;
+package com.macan.account.cmd.api.commands;
 
 import com.macan.cqrs.core.commands.BaseCommand;
 import lombok.Data;
 
 @Data
-public class WithdrawFundsCommand extends BaseCommand {
+public class DepositFundsCommand extends BaseCommand {
     private double amount;
 }
