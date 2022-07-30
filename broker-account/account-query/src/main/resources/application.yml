@@ -3,9 +3,10 @@ server:
 spring:
   data:
     cassandra:
-      contact-points: localhost
-      port: 9142
-      keyspace-name: brokerAccount
+      contact-points: localhost:9042
+      local-datacenter: datacenter1
+
+      keyspace-name: broker_account
   kafka:
     listener:
       ack-mode: manual_immediate

@@ -9,4 +9,4 @@ if [[ ! -z "$CASSANDRA_KEYSPACE" && $1 = 'cassandra' ]]; then
   done &
 fi
 
-exec /usr/local/bin/docker-entrypoint.sh "$@"
+exec /docker-entrypoint.sh "$@"
