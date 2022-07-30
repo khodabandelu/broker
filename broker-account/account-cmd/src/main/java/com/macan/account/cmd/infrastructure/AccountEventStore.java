@@ -7,6 +7,7 @@ import com.macan.cqrs.core.events.EventModel;
 import com.macan.cqrs.core.exceptions.AggregateNotFoundException;
 import com.macan.cqrs.core.exceptions.ConcurrencyException;
 import com.macan.cqrs.core.infrastructure.EventStore;
+import com.macan.cqrs.core.producers.EventProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -16,7 +17,8 @@ import java.util.stream.Collectors;
 
 @Service
 public class AccountEventStore implements EventStore {
-
+    @Autowired
+    private EventProducer eventProducer;
     @Autowired
     private EventStoreRepository repository;
 
@@ -39,7 +41,9 @@ public class AccountEventStore implements EventStore {
                     .eventData(event)
                     .build();
             var persistedEvent = repository.save(eventModel);
-
+            if (!persistedEvent.getId().isEmpty()) {
+                this.eventProducer.produce(event.getClass().getSimpleName(), event);
+            }
         }
     }
 
