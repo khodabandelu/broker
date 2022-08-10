@@ -5,8 +5,8 @@ spring:
     cassandra:
       contact-points: localhost:9042
       local-datacenter: datacenter1
-
       keyspace-name: broker_account
+      schema-action: create_if_not_exists
   kafka:
     listener:
       ack-mode: manual_immediate
